@@ -28,17 +28,17 @@
 #### Revision History  
 -[11/25/24]
 
-# Review by: 
+# Review by: Chainarung Nathan Dechyothin
 
 ### Overall:
-
+The code looks clean and runs perfectly, which shows that you really know what you’re doing. I can tell you put effort into making everything work smoothly, and the structure of your code is easy to follow. It’s efficient and well thought out, which makes it a pleasure to review. 
 ### Suggestions:
 -  
 -
 - 
 
 ### Final Thoughts:
-
+Great job overall it’s clear you’ve got a strong grasp of coding concepts, and I wouldn’t change a thing!
 ---
 
 # Random Name Generator
