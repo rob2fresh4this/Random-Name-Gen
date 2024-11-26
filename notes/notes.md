@@ -13,3 +13,4 @@ let promise = Promise.resolve(value);
 promise.then((result) => {
     console.log(result); // Output: 42
 });
+```
