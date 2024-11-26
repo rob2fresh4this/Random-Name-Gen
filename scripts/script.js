@@ -9,9 +9,6 @@ let namesData = null; // Cache the names data
 
 // Fetch data from the file (only once)
 function studentData() {
-    if (namesData) {
-        return Promise.resolve(namesData); // Return data
-    }
     return fetch("../data/data.json")
         .then(response => response.json())
         .then(data => {
