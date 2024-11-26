@@ -23,7 +23,7 @@
 - [11/25/24]  
 
 #### Exercise or Lab Name  
-- [JS DOM Assignment]  
+- Random Name Generator  
 
 #### Revision History  
 -[11/25/24]

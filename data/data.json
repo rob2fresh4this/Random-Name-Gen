@@ -1,0 +1,190 @@
+{
+    "dataName": [
+        {
+            "firstName": "Mike",
+            "lastName": "Heckerman",
+            "workEmail": "mheckerman@codestack.co",
+            "personalEmail": "mkheck13@gmail.com"
+        },
+        {
+            "firstName": "Roy",
+            "lastName": "Cade III",
+            "workEmail": "rcade@codestack.co",
+            "personalEmail": "roytreslll@gmail.com"
+        },
+        {
+            "firstName": "Santiago",
+            "lastName": "Montanez",
+            "workEmail": "smontanez@codestack.co",
+            "personalEmail": "santiagomm44@gmail.com"
+        },
+        {
+            "firstName": "Chainarung",
+            "lastName": "Dechyothin",
+            "workEmail": "cdechyothin@codestack.co",
+            "personalEmail": "cdechyothin@gmail.com"
+        },
+        {
+            "firstName": "Mason",
+            "lastName": "Quilon",
+            "workEmail": "mquilon@codestack.co",
+            "personalEmail": "Quilonmason@gmail.com"
+        },
+        {
+            "firstName": "Darryl",
+            "lastName": "Patton",
+            "workEmail": "DPatton@codestack.co",
+            "personalEmail": "DLamarPatton@gmail.com"
+        },
+        {
+            "firstName": "Juan",
+            "lastName": "Heredia",
+            "workEmail": "jheredia@codestack.co",
+            "personalEmail": "madnes0205@gmail.com"
+        },
+        {
+            "firstName": "Brock",
+            "lastName": "Spacek",
+            "workEmail": "bspacek@codestack.co",
+            "personalEmail": "brockspacek1@gmail.com"
+        },
+        {
+            "firstName": "Kassandra",
+            "lastName": "Spacek",
+            "workEmail": "kspacek@codestack.co",
+            "personalEmail": "kassiespacek101@gmail.com"
+        },
+        {
+            "firstName": "Ian",
+            "lastName": "Chesley",
+            "workEmail": "ichesley@codestack.co",
+            "personalEmail": "ianchesley@yahoo.com"
+        },
+        {
+            "firstName": "Alexander",
+            "lastName": "Soria",
+            "workEmail": "asoria@codestack.co",
+            "personalEmail": "yoda4115@gmail.com"
+        },
+        {
+            "firstName": "Anthony",
+            "lastName": "Duran",
+            "workEmail": "aduran@codestack.co",
+            "personalEmail": "anthonyaduran6@gmail.com"
+        },
+        {
+            "firstName": "Andrew",
+            "lastName": "Sayasing",
+            "workEmail": "asayasing@codestack.co",
+            "personalEmail": "gettosheep56@gmail.com"
+        },
+        {
+            "firstName": "Robert",
+            "lastName": "Grijalva",
+            "workEmail": "rgrijalva@codestack.co",
+            "personalEmail": "grijrob07@gmail.com"
+        },
+        {
+            "firstName": "Nolan",
+            "lastName": "Parker",
+            "workEmail": "NParker@codestack.co",
+            "personalEmail": "nolanrparker@gmail.com"
+        },
+        {
+            "firstName": "Thao",
+            "lastName": "Vang",
+            "workEmail": "tvang@codestack.co",
+            "personalEmail": "vangt39@gmail.com"
+        },
+        {
+            "firstName": "Aaron",
+            "lastName": "Robinson",
+            "workEmail": "arobinson@codestack.co",
+            "personalEmail": "aarmon5@gmail.com"
+        },
+        {
+            "firstName": "David",
+            "lastName": "Monterrosa",
+            "workEmail": "dmonterrosa@codestack.co",
+            "personalEmail": "dmonterrosa99@gmail.com"
+        },
+        {
+            "firstName": "Karen-anne",
+            "lastName": "Cadavos",
+            "workEmail": "kcadavos@codestack.co",
+            "personalEmail": "karencadavos@gmail.com"
+        },
+        {
+            "firstName": "Tanush",
+            "lastName": "Kumar",
+            "workEmail": "tkumar@codestack.co",
+            "personalEmail": "nush8653@gmail.com"
+        },
+        {
+            "firstName": "Bowen",
+            "lastName": "Henry",
+            "workEmail": "bhenry@codestack.co",
+            "personalEmail": "bhenry3145@gmail.com"
+        },
+        {
+            "firstName": "Alan",
+            "lastName": "Batres",
+            "workEmail": "abatres@codestack.co",
+            "personalEmail": "alanbatres328@gmail.com"
+        },
+        {
+            "firstName": "Gianpaolo",
+            "lastName": "Reinares",
+            "workEmail": "greinares@codestack.co",
+            "personalEmail": "gprcards@gmail.com"
+        },
+        {
+            "firstName": "Josue",
+            "lastName": "Rosales",
+            "workEmail": "jrosales@codestack.co",
+            "personalEmail": "Josue04Rosales@gmail.com"
+        },
+        {
+            "firstName": "Andrie",
+            "lastName": "Amor",
+            "workEmail": "aamor@codedstack.co",
+            "personalEmail": "amorandrie5@gmail.com"
+        },
+        {
+            "firstName": "Bronel",
+            "lastName": "Lazar",
+            "workEmail": "blazar@codestack.co",
+            "personalEmail": "bronellazar@gmail.com"
+        },
+        {
+            "firstName": "Angel",
+            "lastName": "Cuevas",
+            "workEmail": "acuevas@codestack.co",
+            "personalEmail": "aocuevas123@gmail.com"
+        },
+        {
+            "firstName": "Chris",
+            "lastName": "Wells-Hott",
+            "workEmail": "cwellshott@codestack.co",
+            "personalEmail": "cwellshott@gmail.com"
+        },
+        {
+            "firstName": "Ken",
+            "lastName": "Martinez",
+            "workEmail": "kmartinez@codestack.co",
+            "personalEmail": "kmartinez@sjcoe.net"
+        },
+        {
+            "firstName": "Bryan",
+            "lastName": "Stewart",
+            "workEmail": "bstewart@codestack.co",
+            "personalEmail": "bstewart@sjcoe.net"
+        },
+        {
+            "firstName": "Isaiah",
+            "lastName": "Ferguson",
+            "workEmail": "iferguson@codestack.co",
+            "personalEmail": "iferguson@sjcoe.net"
+        }
+    ]
+}
