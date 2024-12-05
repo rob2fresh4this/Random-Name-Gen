@@ -14,7 +14,6 @@ function studentData() {
         .then(data => {
             namesData = data.dataName; // Cache the fetched data (array of name objects)
             console.log(data);
-            return data;
         });
 }
 
@@ -40,13 +39,11 @@ function updatePreviousNames(name) {
 }
 
 generatedNameBtn.addEventListener("click", () => {
-    studentData().then(data => {
+    if (namesData) {
         const randomName = getRandomName(namesData);
         NameDisplay.innerHTML = randomName;
         updatePreviousNames(randomName);
-    });
+    }
 });
 
 studentData(); // Initial fetch
-
-
